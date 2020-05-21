@@ -1,2 +1,5 @@
+# 🤑 Bitcoin Ticker
+
+(REFRESH THE PAGE IF BELOW WORKING DEMO NOT VISIBLE)
 
 ![working demo](20200522_010934.gif)
